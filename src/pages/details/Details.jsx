@@ -2,7 +2,7 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import useFetch from '../../hooks/useFetch';
 import "./style.scss";
-import DetailsBanner from './DetailsBanner/detailsBanner';
+import DetailsBanner from './DetailsBanner/DetailsBanner';
 import Cast from './cast/Cast';
 import VideosSection from './videosSection/VideosSection';
 import Similar from './carousels/Similar';
